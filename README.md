@@ -45,8 +45,6 @@ de jogo e Vite build. Uma das bases Laravel mais completas da coleção
 
 ---
 
----
-
 ## 🖼️ Prévia
 
 <p align="center">
